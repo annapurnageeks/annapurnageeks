@@ -3,14 +3,14 @@
 <div align="center">
 
 <a href="https://github.com/annapurnageeks">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Turning+git+history+into+films+%F0%9F%8E%AC;Always+learning.+Always+shipping." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
 </a>
 
 <br/>
 
 <a href="https://github.com/annapurnageeks?tab=followers"><img src="https://img.shields.io/github/followers/annapurnageeks?label=Followers&style=for-the-badge&color=2c5364&labelColor=0f2027&logo=github" alt="Followers" /></a>
 <a href="https://github.com/annapurnageeks/gitumentary"><img src="https://img.shields.io/github/stars/annapurnageeks/gitumentary?label=gitumentary%20stars&style=for-the-badge&color=3FB6A8&labelColor=0f2027&logo=github" alt="gitumentary stars" /></a>
-<a href="https://annapurnageeks.github.io/gitumentary/"><img src="https://img.shields.io/badge/Live%20demo-Watch%20a%20repo%20documentary-203a43?style=for-the-badge&labelColor=0f2027&logo=githubpages&logoColor=white" alt="Live demo" /></a>
+<a href="https://annapurnageeks.github.io/commit-wrapped/"><img src="https://img.shields.io/badge/New-commit--wrapped-db2777?style=for-the-badge&labelColor=0f2027&logo=githubpages&logoColor=white" alt="commit-wrapped live demo" /></a>
 
 </div>
 
@@ -20,16 +20,30 @@
 
 I'm a builder who is curious about everything. I learn by making things: **AI tools** that help people, **developer tools** that make code easier to understand, and **security projects** that show how systems really break.
 
-- 🎬 Currently shipping **[gitumentary](https://github.com/annapurnageeks/gitumentary)**, which turns any git history into an animated 2-minute documentary
+- 🎁 New: **[commit-wrapped](https://github.com/annapurnageeks/commit-wrapped)**, your year in code as a shareable story, like Spotify Wrapped for git
+- 🎬 Also shipping **[gitumentary](https://github.com/annapurnageeks/gitumentary)**, which turns any git history into an animated 2-minute documentary
 - 🧠 Exploring local LLMs, transformer fine-tuning, and prompt-injection behaviour
 - 🛡️ Researching offensive security for education: remote access tooling, rogue Wi-Fi detection, credential storage
 - 🌱 Always learning, always shipping, always up for a crazy idea
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 <table>
+<tr>
+<td width="100%">
+
+#### 🎁 [commit-wrapped](https://github.com/annapurnageeks/commit-wrapped) · *Your year in code, wrapped*
+
+Turn your git history into a Spotify-Wrapped-style story: streaks, night-owl hours, top languages, your biggest commit and your **coding personality**, plus a card made for sharing. It runs locally with zero dependencies and works as a **Claude Code skill**.
+
+**[▶ Watch React's 2026 Wrapped](https://annapurnageeks.github.io/commit-wrapped/)** · **[⭐ Star the repo](https://github.com/annapurnageeks/commit-wrapped)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/Canvas%20%2B%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code%20skill-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
