@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/annapurnageeks">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
 </a>
 
 <br/>
@@ -20,7 +20,8 @@
 
 I'm a builder who is curious about everything. I learn by making things: **AI tools** that help people, **developer tools** that make code easier to understand, and **security projects** that show how systems really break.
 
-- 📡 New: **[twinradar](https://github.com/annapurnageeks/twinradar)** tells you whether the Wi-Fi you're on is safe, spotting evil twins and man-in-the-middle attacks
+- 🎭 New: **[agentheist](https://github.com/annapurnageeks/agentheist)** is a prompt-injection game where you rob real AI agents by hiding instructions in the data they read
+- 📡 Also: **[twinradar](https://github.com/annapurnageeks/twinradar)** tells you whether the Wi-Fi you're on is safe, spotting evil twins and man-in-the-middle attacks
 - 🐀 Also new: **[rathunter](https://github.com/annapurnageeks/rathunter)** finds RATs, stalkerware and spyware on your Mac in one second, in plain English
 - 🎁 Also new: **[commit-wrapped](https://github.com/annapurnageeks/commit-wrapped)**, your year in code as a shareable story, like Spotify Wrapped for git
 - 🎬 Also shipping **[gitumentary](https://github.com/annapurnageeks/gitumentary)**, which turns any git history into an animated 2-minute documentary
@@ -33,6 +34,19 @@ I'm a builder who is curious about everything. I learn by making things: **AI to
 ### 🚀 Featured projects
 
 <table>
+<tr>
+<td width="100%">
+
+#### 🎭 [agentheist](https://github.com/annapurnageeks/agentheist) · *Rob AI agents*
+
+A game that teaches prompt injection, the #1 risk for AI agents, by letting you do it. You never message the agent; you hide instructions in the one thing it reads (an email, a web page, an invoice, a tool description) until it leaks a secret or pays you. Five levels with escalating defenses, real agents on a local model or Claude, wins judged by code.
+
+**[▶ Play the demo](https://annapurnageeks.github.io/agentheist/)** · **[⭐ Star the repo](https://github.com/annapurnageeks/agentheist)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Prompt injection](https://img.shields.io/badge/prompt%20injection-9b6bff?style=flat-square) ![AI security](https://img.shields.io/badge/AI%20security-1f6feb?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code%20skill-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
