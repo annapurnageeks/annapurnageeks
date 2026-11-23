@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/annapurnageeks">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
 </a>
 
 <br/>
@@ -20,7 +20,8 @@
 
 I'm a builder who is curious about everything. I learn by making things: **AI tools** that help people, **developer tools** that make code easier to understand, and **security projects** that show how systems really break.
 
-- 🎁 New: **[commit-wrapped](https://github.com/annapurnageeks/commit-wrapped)**, your year in code as a shareable story, like Spotify Wrapped for git
+- 🐀 New: **[rathunter](https://github.com/annapurnageeks/rathunter)** finds RATs, stalkerware and spyware on your Mac in one second, in plain English
+- 🎁 Also new: **[commit-wrapped](https://github.com/annapurnageeks/commit-wrapped)**, your year in code as a shareable story, like Spotify Wrapped for git
 - 🎬 Also shipping **[gitumentary](https://github.com/annapurnageeks/gitumentary)**, which turns any git history into an animated 2-minute documentary
 - 🧠 Exploring local LLMs, transformer fine-tuning, and prompt-injection behaviour
 - 🛡️ Researching offensive security for education: remote access tooling, rogue Wi-Fi detection, credential storage
@@ -31,6 +32,19 @@ I'm a builder who is curious about everything. I learn by making things: **AI to
 ### 🚀 Featured projects
 
 <table>
+<tr>
+<td width="100%">
+
+#### 🐀 [rathunter](https://github.com/annapurnageeks/rathunter) · *Is someone spying on your Mac?*
+
+I wrote RATs for research, so I built the tool that catches them. 14 read-only checks for persistence, keyloggers, screen-recording permissions, remote access, fake system processes, Telegram-controlled scripts and traffic interception. Every finding comes with a plain-English explanation and a fix. Zero dependencies, nothing uploaded, works as a **Claude Code skill**.
+
+**[▶ See a sample report](https://annapurnageeks.github.io/rathunter/)** · **[⭐ Star the repo](https://github.com/annapurnageeks/rathunter)**
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Blue team](https://img.shields.io/badge/Blue%20team-incident%20response-1f6feb?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code%20skill-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
