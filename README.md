@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/annapurnageeks">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Mapping+where+my+data+goes+%F0%9F%8C%8D;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
 </a>
 
 <br/>
@@ -20,7 +20,8 @@
 
 I'm a builder who is curious about everything. I learn by making things: **AI tools** that help people, **developer tools** that make code easier to understand, and **security projects** that show how systems really break.
 
-- 🎭 New: **[agentheist](https://github.com/annapurnageeks/agentheist)** is a prompt-injection game where you rob real AI agents by hiding instructions in the data they read
+- 🌍 New: **[netglobe](https://github.com/annapurnageeks/netglobe)** draws a live globe of every connection your Mac makes — which company, which country, and who's tracking you
+- 🎭 Also: **[agentheist](https://github.com/annapurnageeks/agentheist)** is a prompt-injection game where you rob real AI agents by hiding instructions in the data they read
 - 📡 Also: **[twinradar](https://github.com/annapurnageeks/twinradar)** tells you whether the Wi-Fi you're on is safe, spotting evil twins and man-in-the-middle attacks
 - 🐀 Also new: **[rathunter](https://github.com/annapurnageeks/rathunter)** finds RATs, stalkerware and spyware on your Mac in one second, in plain English
 - 🎁 Also new: **[commit-wrapped](https://github.com/annapurnageeks/commit-wrapped)**, your year in code as a shareable story, like Spotify Wrapped for git
@@ -34,6 +35,19 @@ I'm a builder who is curious about everything. I learn by making things: **AI to
 ### 🚀 Featured projects
 
 <table>
+<tr>
+<td width="100%">
+
+#### 🌍 [netglobe](https://github.com/annapurnageeks/netglobe) · *Where does your data go?*
+
+A live, rotating globe of every connection your Mac makes. It names the company on the other end, places it by country (fully offline), and flags trackers and ad networks in red — so you can watch your weather app phone three analytics firms. No admin, no uploads, zero dependencies.
+
+**[▶ Open the live demo](https://annapurnageeks.github.io/netglobe/)** · **[⭐ Star the repo](https://github.com/annapurnageeks/netglobe)**
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Privacy](https://img.shields.io/badge/privacy-trackers-2ea44f?style=flat-square) ![Dataviz](https://img.shields.io/badge/data-visualization-9b6bff?style=flat-square)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
