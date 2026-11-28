@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="assets/logo.png" width="120" alt="Annapurna Geeks logo" />
+<br/>
 
 <a href="https://github.com/annapurnageeks">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4E9A2A&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Mapping+where+my+data+goes+%F0%9F%8C%8D;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
