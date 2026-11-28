@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Annapurna%20Geeks&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Build%20%C2%B7%20Break%20%C2%B7%20Learn%20%C2%B7%20Repeat&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Annapurna Geeks" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b2e16,50:13602a,100:4e9a2a&text=Annapurna%20Geeks&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Build%20%C2%B7%20Break%20%C2%B7%20Learn%20%C2%B7%20Repeat&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Annapurna Geeks" />
 
 <div align="center">
 
+<img src="assets/logo.png" width="120" alt="Annapurna Geeks logo" />
+
 <a href="https://github.com/annapurnageeks">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3FB6A8&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Mapping+where+my+data+goes+%F0%9F%8C%8D;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4E9A2A&center=true&vCenter=true&width=620&lines=AI+%26+developer-tools+builder;Cybersecurity+explorer;Hunting+RATs+on+macOS+%F0%9F%90%80;Catching+evil+twins+%F0%9F%93%A1;Robbing+AI+agents+for+fun+%F0%9F%8E%AD;Mapping+where+my+data+goes+%F0%9F%8C%8D;Turning+git+history+into+films+%F0%9F%8E%AC;Your+year+in+code%2C+wrapped+%F0%9F%8E%81;Always+learning.+Always+shipping." alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://github.com/annapurnageeks?tab=followers"><img src="https://img.shields.io/github/followers/annapurnageeks?label=Followers&style=for-the-badge&color=2c5364&labelColor=0f2027&logo=github" alt="Followers" /></a>
-<a href="https://github.com/annapurnageeks/gitumentary"><img src="https://img.shields.io/github/stars/annapurnageeks/gitumentary?label=gitumentary%20stars&style=for-the-badge&color=3FB6A8&labelColor=0f2027&logo=github" alt="gitumentary stars" /></a>
-<a href="https://annapurnageeks.github.io/commit-wrapped/"><img src="https://img.shields.io/badge/New-commit--wrapped-db2777?style=for-the-badge&labelColor=0f2027&logo=githubpages&logoColor=white" alt="commit-wrapped live demo" /></a>
+<a href="https://github.com/annapurnageeks?tab=followers"><img src="https://img.shields.io/github/followers/annapurnageeks?label=Followers&style=for-the-badge&color=13602a&labelColor=0b2e16&logo=github" alt="Followers" /></a>
+<a href="https://github.com/annapurnageeks/gitumentary"><img src="https://img.shields.io/github/stars/annapurnageeks/gitumentary?label=gitumentary%20stars&style=for-the-badge&color=4E9A2A&labelColor=0b2e16&logo=github" alt="gitumentary stars" /></a>
+<a href="https://annapurnageeks.github.io/commit-wrapped/"><img src="https://img.shields.io/badge/New-commit--wrapped-db2777?style=for-the-badge&labelColor=0b2e16&logo=githubpages&logoColor=white" alt="commit-wrapped live demo" /></a>
 
 </div>
 
@@ -197,8 +199,8 @@ Turn any git history into a 2-minute animated documentary with chapters, narrati
 
 **If something here sparks your curiosity, star it, fork it, or open an issue. Let's build crazy stuff together.**
 
-<img src="https://komarev.com/ghpvc/?username=annapurnageeks&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=annapurnageeks&label=Profile%20views&color=13602a&style=flat-square" alt="Profile views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4e9a2a,50:13602a,100:0b2e16&section=footer" width="100%" alt="" />
